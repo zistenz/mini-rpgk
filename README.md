@@ -8,7 +8,7 @@ Ezen az oldalon az általam készített szerepjáték fordításokat és kisebb 
 ### Fordítások
 
 * **M20 5E - Adamantium Edition:** Ez a címbeli *Microlite20* hack (annak is a v1.0 változatának) fordítása, ami a D&D 5E alapján íródott. (A nyers fordítás már kész, a formázás és dokumentumba öntés van még hátra, de egy előzetest már [megnézhetsz itt](pdf/m20_5e_ae_hun_preview.pdf)). Az eredetije [itt található](https://microlite20.org/2017/10/02/on-facebook-m20-fifth-adamantine-edition-pdf/).
-* **Nesztek, egy Kib'szott D&D:** Ez a *Here's Some Fuckin' D&D* c. kétoldalas OSR szerepjáték fordítása. A nyelvezet meglehetősen 18+-os, ez azért a címből is sejthető. :)
+* **Nesztek, egy Kib'szott D&D:** ![pdf][pdficon] Ez a *Here's Some Fuckin' D&D* c. kétoldalas OSR szerepjáték fordítása. A nyelvezet meglehetősen 18+-os, ez azért a címből is sejthető. :)
 
     Gondolkoztam az alapjául szolgáló *Searchers of the Unknown* fordításán is, de igazából az ennek egy egyoldalas, még csupaszabb változata, szóval újdonság nem lenne benne (kb. nincsenek varázslatlisták és kasztok). Aki kíváncsi, keressen rá a nevére, kiegészítve az "rpg collection" szavakkal. Az [első találat](https://retroroleplaying.com/content/searchers-unknown-rpg-collection/%20target=) egy olyan oldalra visz, ahol egy pdf-esített változat tölthető le az alapjátékból és annak vagy harmincféle klónjából, bővítéséből. [Ez a link](https://searchersoftheunknown.wordpress.com/) meg további kiegészítéseket fog össze, de igazából a SotU-ból rengeteg klónt lehet még találni ezerfelé.
     
@@ -39,3 +39,5 @@ Ezen az oldalon az általam készített szerepjáték fordításokat és kisebb 
     * *Tactical Waifu* (elérhető a [DTRPG](http://www.drivethrurpg.com/product/157352/Tactical-Waifu)-n, ingyen).
 
     * Egy nagy halom L&F hack összegyűjtve egy helyre [itt](https://rendedpress.blogspot.hu/2017/07/lasers-feelings-assorted-l-mods.html).
+
+[pdficon]: pdf/icon_pdf_small.gif
