@@ -6,4 +6,4 @@ A mini-rpgk az utóbbi években, évtizedben kezdtek elterjedni igazán, népsze
 
 Ezen az oldalon az általam készített szerepjáték fordításokat és kisebb játékokat találhatod.
 
-> Megjegyzés: Korábban ezek már megjelentek a [PeteRPG] (https://peterpghu.blogspot.hu/) blogomon, de inkább átköltöztettem egy helyre őket.
+*Megjegyzés: Korábban ezek már megjelentek a [PeteRPG] (https://peterpghu.blogspot.hu/) blogomon, de inkább átköltöztettem egy helyre őket.*
