@@ -2,9 +2,11 @@ A mini-rpgk az utóbbi években, évtizedben kezdtek elterjedni igazán, népsze
 
 Ezen az oldalon az általam készített szerepjáték fordításokat és kisebb játékokat találhatod. A fordítások minden esetben az eredeti licenc hatálya alá esnek. A saját készítésű anyagok mindegyike [CreativeCommons 4.0 BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/) licencet kapott.
 
-> Megjegyzés: Korábban ezek már megjelentek a [PeteRPG](https://peterpghu.blogspot.hu/) blogomon, de inkább átköltöztettem egy közös, jobban karbantartható helyre őket.
+> Megjegyzés: Korábban ezek egy része már megjelent a [PeteRPG](https://peterpghu.blogspot.hu/) blogomon, de inkább átköltöztettem egy közös, jobban karbantartható helyre őket. A legfrissebb dolgok mindig felülre kerülnek, akkor is, ha frissítés történt.
 
 ### Fordítások
+
+* **Knave:** [![pdf][pdficon]](pdf/knave_10_hun.pdf) Ez egy OSR kompatibilis szabálykészlet szinte bármilyen D&D verzióhoz. Szerzője az a Ben Milton, akinek a Maze Rats játéka lentebb található, szintén lefordítva. A Knave olcsón megvásárolható a [DTRPG](https://www.drivethrurpg.com/product/250888/Knave) oldalán, a csomag pluszban még egy karakterlapot és az eredeti, angol nyelvű dokumentumot is tartalmazza a pdf mellett. (A fordítás a használt CC licenc miatt legális.)
 
 * **M20 5E - Adamantium Edition:** Ez a címbeli *Microlite20* hack (annak is a v1.0 változatának) fordítása, ami a D&D 5E alapján íródott. (A nyers fordítás már kész, a formázás és dokumentumba öntés van még hátra, de egy előzetest már [megnézhetsz itt](pdf/m20_5e_ae_hun_preview.pdf)). Az eredetije [itt található](https://microlite20.org/2017/10/02/on-facebook-m20-fifth-adamantine-edition-pdf/).
 * **Nesztek, egy Kib'szott D&D:** [![pdf][pdficon]](pdf/hisfdnd_hun.pdf) Ez a *Here's Some Fuckin' D&D* c. kétoldalas OSR szerepjáték fordítása. A nyelvezet meglehetősen 18+-os, ez azért a címből is sejthető. :)
