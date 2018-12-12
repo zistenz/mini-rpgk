@@ -6,6 +6,8 @@ Ezen az oldalon az általam készített szerepjáték fordításokat és kisebb 
 
 ### Fordítások
 
+* **MézVadász:** [![pdf][pdficon]](pdf/honey_runner_hun.pdf) A korábbi *Honey Heist* egy kiberpunk környezetre átültetett változata.
+
 * **Knave:** [![pdf][pdficon]](pdf/knave_10_hun.pdf) Ez egy OSR kompatibilis szabálykészlet szinte bármilyen D&D verzióhoz. Szerzője az a Ben Milton, akinek a Maze Rats játéka lentebb található, szintén lefordítva. A Knave olcsón megvásárolható a [DTRPG](https://www.drivethrurpg.com/product/250888/Knave) oldalán, a csomag pluszban még egy karakterlapot és az eredeti, angol nyelvű dokumentumot is tartalmazza a pdf mellett. (A fordítás a használt CC licenc miatt legális.)
 
 * **M20 5E - Adamantium Edition:** Ez a címbeli *Microlite20* hack (annak is a v1.0 változatának) fordítása, ami a D&D 5E alapján íródott. (A nyers fordítás már kész, a formázás és dokumentumba öntés van még hátra, de egy előzetest már [megnézhetsz itt](pdf/m20_5e_ae_hun_preview.pdf)). Az eredetije [itt található](https://microlite20.org/2017/10/02/on-facebook-m20-fifth-adamantine-edition-pdf/).
