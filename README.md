@@ -6,6 +6,10 @@ Ezen az oldalon az általam készített szerepjáték fordításokat és kisebb 
 
 ### Fordítások
 
+* **Csini Csatamágusok:** [![pdf][pdficon]](pdf/sexybattlewizards_hun.pdf) *Egy csini csatamágus vagy, aki a Kóbor Kollégiumba tartozik - a szervezet egy mágikus repülő kastélyban lakik, és tagjai a felszínen kóborolnak, hogy elhárítsák az arkán katasztrófákat és hogy az igazságtalanság ellen küzdjenek. Erre pontosan zéró felhatalmazással rendelkezel, vagyis a zsaruk utálnak, és számos országban körözés alatt állsz a világmegmentés közben elkövetett járulékos károk okozásáért.*
+
+    Grant Howitt egy újabb mini-játéka.
+
 * **MézVadász:** [![pdf][pdficon]](pdf/honey_runner_hun.pdf) A korábbi *Honey Heist* egy kiberpunk környezetre átültetett változata.
 
 * **Knave:** [![pdf][pdficon]](pdf/knave_10_hun.pdf) Ez egy OSR kompatibilis szabálykészlet szinte bármilyen D&D verzióhoz. Szerzője az a Ben Milton, akinek a Maze Rats játéka lentebb található, szintén lefordítva. A Knave olcsón megvásárolható a [DTRPG](https://www.drivethrurpg.com/product/250888/Knave) oldalán, a csomag pluszban még egy karakterlapot és az eredeti, angol nyelvű dokumentumot is tartalmazza a pdf mellett. (A fordítás a használt CC licenc miatt legális.)
